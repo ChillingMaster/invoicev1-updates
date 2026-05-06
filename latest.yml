@@ -1,8 +1,8 @@
-version: 2.0.0
+version: 2.1.0
 files:
-  - url: The Home Zone Setup 2.0.0.exe
-    sha512: qdgYKXgP+l2RGH2Jcq1OVoR+nR9MwHgZ3syUxRVO46ikapz68Qvrgj1R1mP2aJmHqRnhAoM7HB6mHSixaVshNA==
-    size: 131718934
-path: The Home Zone Setup 2.0.0.exe
-sha512: qdgYKXgP+l2RGH2Jcq1OVoR+nR9MwHgZ3syUxRVO46ikapz68Qvrgj1R1mP2aJmHqRnhAoM7HB6mHSixaVshNA==
-releaseDate: '2026-05-04T14:18:25.668Z'
+  - url: The Home Zone Setup 2.1.0.exe
+    sha512: FRtcU+WD5T2tsVe6aRIH+t37GSkaGrDIBdYmi0/09pbRs9GbX+fY5CHp7zYVTY2PMRjLIeh0f7Q7vInkCgxFLg==
+    size: 131737325
+path: The Home Zone Setup 2.1.0.exe
+sha512: FRtcU+WD5T2tsVe6aRIH+t37GSkaGrDIBdYmi0/09pbRs9GbX+fY5CHp7zYVTY2PMRjLIeh0f7Q7vInkCgxFLg==
+releaseDate: '2026-05-06T00:16:31.696Z'
